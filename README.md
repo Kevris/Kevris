@@ -1,33 +1,24 @@
-# ¡Hola! Soy KvensOs 👋
+# ¡Hola Mundo! Soy KvensOs 👋
 
-💭 Making life easier for others :D
+💭 *Making life easier for others :D*
 
----
-
-### 🚀 Tecnologías que estoy aprendiendo y usando:
-
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node.js" />
-</p>
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en constante aprendizaje, enfocado en construir herramientas útiles y código limpio.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🚀 Tecnologías y Herramientas
 
-Aquí puedes ver el rendimiento de mi código en tiempo real:
+Actualmente utilizo y practico con el siguiente stack de desarrollo:
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de KvensOs" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
-</p>
+*   **Lenguajes:** JavaScript, TypeScript
+*   **Frontend:** React
+*   **Backend:** Node.js
+*   **Entorno:** Git & GitHub
 
 ---
 
-### 🏆 Mis Trofeos de Desarrollador
+### 📈 Mis Repositorios Destacados
 
-<p align="center">
-  <img src="https://vercel.app" alt="Trofeos de KvensOs" />
-</p>
+*📌 ¡Echa un vistazo a mis proyectos listados abajo en la sección de repositorios para ver en qué he estado trabajando últimamente!*
+
+
